@@ -104,7 +104,7 @@ a:hover {
 .bannerWrapper {
   position: relative;
   width: 100%;
-  margin-bottom: calc(60px + 1rem);
+  margin-bottom: calc(40px + 1rem);
 }
 
 .bannerImage {
@@ -124,9 +124,14 @@ a:hover {
   bottom: 0;
   left: 50%;
   transform: translate(-50%, 50%);
-  width: 120px;
-  height: 120px;
+  width: 80px;
+  height: 80px;
+  min-width: 80px;
+  min-height: 80px;
+  max-width: 80px;
+  max-height: 80px;
   border-radius: 50%;
+  overflow: hidden;
   object-fit: cover;
   border: 3px solid var(--glass-border);
   box-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
