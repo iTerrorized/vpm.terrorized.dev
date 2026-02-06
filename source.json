@@ -13,6 +13,6 @@
         "text":"GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator"],
+    "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator","iTerrorized/Auto-Bounds-Setup","iTerrorized/Find-Used-Shaders"],
     "packages":[]
 }
