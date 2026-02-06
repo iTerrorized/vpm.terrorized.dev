@@ -13,6 +13,6 @@
         "text":"GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[],
+    "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter"],
     "packages":[]
 }
