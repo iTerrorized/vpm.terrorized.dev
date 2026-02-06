@@ -17,6 +17,6 @@
         "text":"Discord"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator","iTerrorized/Auto-Bounds-Setup","iTerrorized/Find-Used-Shaders"],
+    "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator","iTerrorized/Auto-Bounds-Setup","iTerrorized/Find-Used-Shaders", "iTerrorized/FX-to-VRCParameters"],
     "packages":[]
 }
