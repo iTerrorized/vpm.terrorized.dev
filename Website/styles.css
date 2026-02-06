@@ -26,18 +26,10 @@ body {
   font-family: Arial, sans-serif;
   color: var(--text-primary);
   background-color: #0a0a0f;
-  background-image:
+  background-image: url('Background.gif'),
     radial-gradient(ellipse at 20% 50%, rgba(102, 126, 234, 0.08) 0%, transparent 50%),
     radial-gradient(ellipse at 80% 20%, rgba(102, 126, 234, 0.05) 0%, transparent 50%),
     radial-gradient(ellipse at 50% 100%, rgba(102, 126, 234, 0.06) 0%, transparent 40%);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
-body.bg-loaded {
-  background-image: url('Background.gif');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
