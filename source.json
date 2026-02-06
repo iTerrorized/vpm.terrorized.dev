@@ -3,14 +3,18 @@
     "id":"dev.terrorized.vpm-listing",
     "url":"https://vpm.terrorized.dev/index.json",
     "author":{
-        "email":"xterrorized@outlook.com",
+        "email":"iterrorized on discord",
         "name":"iTerrorized",
         "url":"https://terrorized.dev"
     },
-    "description":"For use with the VRChat Creator Companion",
+    "description":"Some packages are not ment for people to use, use all packages at your own risk!",
     "infoLink":{
         "url":"https://github.com/iTerrorized/vpm.terrorized.dev",
         "text":"GitHub"
+    },
+    "infoLink":{
+        "url":"https://discord.gg/X9sgs7KCAv",
+        "text":"Discord"
     },
     "bannerUrl":"banner.png",
     "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator","iTerrorized/Auto-Bounds-Setup","iTerrorized/Find-Used-Shaders"],
