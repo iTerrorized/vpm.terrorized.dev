@@ -101,6 +101,12 @@ a:hover {
 }
 
 /* Banner */
+.bannerWrapper {
+  position: relative;
+  width: 100%;
+  margin-bottom: calc(60px + 1rem);
+}
+
 .bannerImage {
   aspect-ratio: 5 / 1;
   border-radius: 15px;
@@ -109,9 +115,22 @@ a:hover {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin-bottom: 1rem;
   border: 1px solid var(--glass-border);
-  box-shadow: 0 0 30px var(--accent-glow);
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
+}
+
+.bannerPfp {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--glass-border);
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
+  background-color: #0a0a0f;
 }
 
 /* Listing info section */
