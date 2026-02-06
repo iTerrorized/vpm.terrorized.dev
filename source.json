@@ -12,7 +12,9 @@
         "url":"https://github.com/iTerrorized/vpm.terrorized.dev",
         "text":"GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[],
+    "bannerUrl":"Banner.png",
+    "githubRepos":[
+        "iTerrorized/Poiyomi-to-Quest-Hue-Converter"
+    ],
     "packages":[]
 }
