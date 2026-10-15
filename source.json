@@ -7,14 +7,10 @@
         "name":"iTerrorized",
         "url":"https://terrorized.dev"
     },
-    "description":"Some packages are not ment for people to use, use all packages at your own risk!",
+    "description":"Some packages are not meant for people to use, use all packages at your own risk!",
     "infoLink":{
         "url":"https://github.com/iTerrorized/vpm.terrorized.dev",
         "text":"GitHub"
-    },
-    "infoLink":{
-        "url":"https://discord.gg/X9sgs7KCAv",
-        "text":"Discord"
     },
     "bannerUrl":"banner.png",
     "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator","iTerrorized/Auto-Bounds-Setup","iTerrorized/Find-Used-Shaders", "iTerrorized/FX-to-VRCParameters", "iTerrorized/dev.terrorized.guid-regenerator", "iTerrorized/VRCParameters-To-FX", "iTerrorized/dev.terrorized.facial-gesture-generator", "iTerrorized/dev.terrorized.unused-blendshapes", "iTerrorized/dev.terrorized.parameter-cleaner"],
