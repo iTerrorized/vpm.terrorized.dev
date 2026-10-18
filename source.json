@@ -13,6 +13,6 @@
         "text":"GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator","iTerrorized/Auto-Bounds-Setup","iTerrorized/Find-Used-Shaders", "iTerrorized/FX-to-VRCParameters", "iTerrorized/dev.terrorized.guid-regenerator", "iTerrorized/VRCParameters-To-FX", "iTerrorized/dev.terrorized.facial-gesture-generator", "iTerrorized/dev.terrorized.unused-blendshapes", "iTerrorized/dev.terrorized.parameter-cleaner"],
+    "githubRepos":["iTerrorized/Poiyomi-to-Quest-Hue-Converter","iTerrorized/Toggle-Animation-Generator","iTerrorized/Auto-Bounds-Setup","iTerrorized/Find-Used-Shaders", "iTerrorized/FX-to-VRCParameters", "iTerrorized/dev.terrorized.guid-regenerator", "iTerrorized/VRCParameters-To-FX", "iTerrorized/dev.terrorized.facial-gesture-generator", "iTerrorized/dev.terrorized.unused-blendshapes", "iTerrorized/dev.terrorized.parameter-cleaner", "iTerrorized/dev.terrorized.menu-icon-creator"],
     "packages":[]
 }
